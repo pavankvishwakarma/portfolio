@@ -70,3 +70,6 @@ h2{
   text-align: right;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+h2,h3{
+  font-family: cursive;
+}
